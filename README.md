@@ -46,4 +46,4 @@ Languages: **C++ • C# • Python**
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ybeststudio&icon=4&color=7)
+![Profile Views](https://komarev.com/ghpvc/?username=ybeststudio&color=blue)
