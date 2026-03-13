@@ -46,4 +46,4 @@ Languages: **C++ • C# • Python**
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ybeststudio&color=blue)
+![](https://komarev.com/ghpvc/?username=ybeststudio&label=Profile%20Views&color=blue&style=for-the-badge)
