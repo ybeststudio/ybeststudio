@@ -45,7 +45,4 @@ Languages: **C++ • C# • Python**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybeststudio&theme=highcontrast&hide_border=false&layout=compact)
 
 ---
----
-
-![](https://komarev.com/ghpvc/?username=ybeststudio&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=ybeststudio&label=Profile%20Views&color=blue&style=for-the-badge)
+![](https://visitcount.itsvg.in/api?id=ybeststudio&label=Profile%20Views&color=0&icon=5&pretty=true)
